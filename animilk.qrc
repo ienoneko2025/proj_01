@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/animilk">
+    <file>animilk.png</file>
+  </qresource>
+</RCC>

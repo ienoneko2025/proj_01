@@ -1,0 +1,25 @@
+# CMake
+/CMakeCache.txt
+/CMakeFiles/
+/cmake_install.cmake
+
+# Qt
+/.qt/
+/moc_*.cpp_parameters
+/*.qrc.depends
+/moc_*.cpp
+/qrc_*.cpp
+
+# Generators
+/Makefile
+/*.ninja
+/.ninja_*
+
+# LSPs
+/compile_commands.json
+/.cache/
+
+# Artifacts
+/animilk
+/*.dll.a
+/*.exe
